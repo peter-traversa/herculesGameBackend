@@ -13,6 +13,5 @@ autolycusCard = Card.create(name: 'Autolycus', image_url: 'https://i.pinimg.com/
 xenaCard = Card.create(name: 'Xena', image_url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgLMl9Y1nFdvl4ATt-D9vfeoekgv1nHOKESkQKuwldaDlgZT-A')
 gabrielCard = Card.create(name: 'Gabriel', image_url: 'https://nonrefundablenonsense.files.wordpress.com/2014/11/13226921_71.jpg')
 salmoneusCard = Card.create(name: 'Salmoneus', image_url: 'https://img.sharetv.com/shows/characters/large/hercules_the_legendary_journeys.salmoneus.jpg')
-falafelCard = Card.create(name: 'Falafel', image_url:'https://vignette.wikia.nocookie.net/hercxena/images/7/73/Falafel_other_side.jpg/revision/latest?cb=20100810004926')
 morriganCard = Card.create(name: 'Morrigan', image_url:'https://vignette.wikia.nocookie.net/hercxena/images/1/1a/Morrigan.jpg/revision/latest?cb=20101204175420')
 thesovereignCard = Card.create(name: 'The Sovereign', image_url: 'https://i.pinimg.com/236x/7b/21/9c/7b219c9c4804ae732bd136a109c13db3--kevin-sorbo-xena.jpg')
