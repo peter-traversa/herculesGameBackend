@@ -5,6 +5,11 @@ class Api::V1::DecksController < ApplicationController
     render json: @decks
   end
 
+  def show
+    @deck = Deck.find(params[:id])
+    render json: @deck
+  end
+
   def update
     @deck.update(deck_params)
     if @deck.save
