@@ -15,3 +15,14 @@ gabrielCard = Card.create(name: 'Gabriel', image_url: 'https://nonrefundablenons
 salmoneusCard = Card.create(name: 'Salmoneus', image_url: 'https://img.sharetv.com/shows/characters/large/hercules_the_legendary_journeys.salmoneus.jpg')
 morriganCard = Card.create(name: 'Morrigan', image_url:'https://vignette.wikia.nocookie.net/hercxena/images/1/1a/Morrigan.jpg/revision/latest?cb=20101204175420')
 thesovereignCard = Card.create(name: 'The Sovereign', image_url: 'https://i.pinimg.com/236x/7b/21/9c/7b219c9c4804ae732bd136a109c13db3--kevin-sorbo-xena.jpg')
+
+
+leslie = Card.create(name: 'Leslie', image_url: 'https://vignette.wikia.nocookie.net/parksandrecreation/images/3/38/Leslie.png/revision/latest?cb=20111015205925')
+ron = Card.create(name: 'Ron', image_url: 'https://vignette.wikia.nocookie.net/parksandrecreation/images/3/38/Leslie.png/revision/latest?cb=20111015205925')
+donna = Card.create(name: 'Donna', image_url: 'https://vignette.wikia.nocookie.net/parksandrecreation/images/5/59/Donna_2.jpg/revision/latest?cb=20111015210204')
+ann = Card.create(name: 'Ann', image_url: 'https://vignette.wikia.nocookie.net/parksandrecreation/images/3/33/Ann_Perkins.jpg/revision/latest?cb=20180116070354')
+tom = Card.create(name: 'Tom', image_url: 'https://vignette.wikia.nocookie.net/parksandrecreation/images/9/9c/Tom.jpg/revision/latest?cb=20110809180711')
+andy = Card.create(name: 'Andy', image_url: 'https://vignette.wikia.nocookie.net/parksandrecreation/images/d/d1/Andy-0.jpg/revision/latest/scale-to-width-down/700?cb=20180116071113')
+april = Card.create(name: 'April', image_url: 'https://vignette.wikia.nocookie.net/parksandrecreation/images/e/ed/April-0.png/revision/latest?cb=20180116070637')
+jerry = Card.create(name: 'Jerry', image_url: 'https://vignette.wikia.nocookie.net/parksandrecreation/images/3/38/Jerry.jpg/revision/latest?cb=20110809181649')
+sebastian = Card.create(name: 'Sebastian', image_url: 'https://vignette.wikia.nocookie.net/parksandrecreation/images/3/38/Leslie.png/revision/latest?cb=20111015205925')
