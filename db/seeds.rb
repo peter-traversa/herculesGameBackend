@@ -6,7 +6,7 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
-herculesCard = Card.create(name: 'Hercules', image_url: 'https://i.jeded.com/i/hercules-the-legendary-journeys-sixth-season.11095.jpg')
+herculesCard = Card.create(name: 'Hercules', image_url: 'https://static.tvtropes.org/pmwiki/pub/images/gallery_1486171256_sorbo1.jpg')
 iolausCard = Card.create(name: 'Iolaus', image_url: 'https://i.pinimg.com/originals/32/1f/1f/321f1f7c420a3af54a499f2965f59b02.jpg')
 joxerCard = Card.create(name: 'Joxer', image_url: 'https://img.sharetv.com/shows/characters/large/hercules_the_legendary_journeys.joxer.jpg')
 autolycusCard = Card.create(name: 'Autolycus', image_url: 'https://i.pinimg.com/originals/f1/06/fa/f106fa6269e18d883f56f383b76992b7.jpg')
