@@ -1,4 +1,4 @@
-## Memory Mathing Card Game
+## Memory Matching Card Game
 Card matching game with multiple decks/themes and difficulty levels
 
 ## Motivation
