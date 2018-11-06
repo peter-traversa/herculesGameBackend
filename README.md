@@ -1,25 +1,22 @@
-# README
+## Memory Mathing Card Game
+Card matching game with multiple decks/themes and difficulty levels
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Motivation
+To create a fun card matching game utilizing Javascript and Ruby on Rails.
 
-Things you may want to cover:
+## Demo
+A Demo of this project can be found at :
 
-* Ruby version
+[Youtube](https://www.youtube.com/watch?v=WcOp47L8WvU)
 
-* System dependencies
+## Built with
 
-* Configuration
+* Ruby on Rails
+* Javascript
 
-* Database creation
 
-* Database initialization
+## How to use
+![HomePage](public/memorycardgame.png)
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# herculesGameBackend
+This project works in correlation with [Memory Matching Card Game Frontend](https://github.com/Jessicalong627/herculesGameFrontend)
